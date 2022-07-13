@@ -9,4 +9,4 @@ def test():
 
 @cc.route('/customers')
 def get_all_customers():
-    return
+    pass
